@@ -1,7 +1,15 @@
 # <div align="center">**LINUX LEARNING HANDBOOK**</div>
 # Table of Contents
 
-- [What is Linux?](#what-is-linux)
+- **[What is Linux?](#what-is-linux)**
+- **[Why Use Linux?](#why-use-linux)**
+- **[How to Use Linux?](#how-to-use-linux)**
+- **[Installing Linux using VMware](#installing-linux-using-vmware)**
+- **[Linux Commands](#linux-commands)**
+- **[Linux Features](#linux-features)**
+
+
+
 # Why Use Linux?
 # How to Use Linux?
 # Installing Linux using VMware
