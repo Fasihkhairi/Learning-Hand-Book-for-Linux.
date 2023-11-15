@@ -10,11 +10,6 @@
 
 
 
-# Why Use Linux?
-# How to Use Linux?
-# Installing Linux using VMware
-# Linux Commands
-# Linux Features
 #
 #
 # What is Linux?
